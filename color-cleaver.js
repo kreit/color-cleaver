@@ -6,4 +6,6 @@ const getInput = require("./get-input.js");
 
 // Your code here!
 
-console.log("blue and yellow make green")
+
+
+
